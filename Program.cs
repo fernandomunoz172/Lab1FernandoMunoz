@@ -88,3 +88,9 @@ void WorkWithIntegers()
     cc = aa / bb;
     Console.WriteLine(cc);
     */
+Console.WriteLine("CIRCLE AREA");
+int y = 5;
+double PI = 3.1415926535897931;
+double iresult = PI*(y*y);
+Console.WriteLine($"The area of the circle which ratio is {y} is: {iresult}");
+Console.WriteLine("------------------------------------------------------------------------------");
